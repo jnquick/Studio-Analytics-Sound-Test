@@ -1,0 +1,15 @@
+{
+    "name": "Studio-Analytics-Sound-Test",
+    "description": "A test of multiple microphones using johnny-five",
+    "version": "0.0.1",
+    "author": {
+        "name": "James Quick <j.n.quick@gmail.com>",
+        "email": "j.n.quick@gmail.com"
+    },
+    "dependencies": {
+        "johnny-five": ">= 0.7.3"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
